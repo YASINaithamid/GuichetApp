@@ -1,0 +1,55 @@
+
+
+# Flutter/Dart/Pub related files
+**/android/**/build/
+**/ios/**/build/
+**/build/
+**/web/**/build/
+**/linux/**/build/
+**/windows/**/build/
+**/macos/**/build/
+
+# Dependency directories
+/.dart_tool/
+/.packages
+/pubspec.lock
+
+# Flutter generated files
+*.iml
+*.ipr
+*.iws
+.idea/
+*.log
+*.DS_Store
+
+# Android-specific
+/android/.gradle/
+/android/local.properties
+
+# iOS-specific
+/ios/Pods/
+/ios/.symlinks/
+/ios/Flutter/Flutter.framework
+/ios/Flutter/App.framework
+xcuserdata/
+
+# VS Code specific
+.vscode/
+
+# Other IDEs and tools
+*.swp
+*.swo
+*.tmp
+*.bak
+*.out
+*.log
+
+# Ignore APK or IPA outputs
+*.apk
+*.aab
+*.ipa
+
+# Misc
+*.lock
+*.gz
+*.zip
